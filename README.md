@@ -15,7 +15,7 @@ A partir des besoins du client, définis lors d'une [première réunion](https:/
 - Les [useCase](https://drive.google.com/file/d/1xqYXF7lFyT60xUcZHEkBkQ6nhXiOhjfN/view?usp=sharing) pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord).
 - Les [user stories](https://drive.google.com/file/d/13GIBu-yk18BUHfRjwEnuCmU3OasfabHQ/view?usp=sharing) avec critère(s) d’acceptation pour chacune des fonctionnalités.
 - Les [maquettes du site](https://www.figma.com/file/U2drnEs02oYJu5TgcCgQPb/Maquette-Learn%40Home?node-id=0%3A1) réalisées avec Figma.
-- Un [Kanban](https://www.notion.so/Dev4U-projet-Learn-Home-d1a601762591492b94e31775950d76d8) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement grâce à Notion. 
+- Un [Kanban](https://ahead-foxtail-5f4.notion.site/Dev4U-projet-Learn-Home-d1a601762591492b94e31775950d76d8) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement grâce à Notion. 
 
 ## Compétences évaluées  
 
